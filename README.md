@@ -13,7 +13,7 @@ This is a data science application that provides functionality for data explorat
 
 To use this application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/data-science-app.git`
+1. Clone the repository: `git clone https://github.com/alee97422/data-science-app.git`
 2. Navigate to the project directory: `cd data-science-app`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the application: `python app.py`
